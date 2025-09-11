@@ -4,7 +4,6 @@
 - I’m currently working on [Flask Dev Kit](https://github.com/sinueh-andreata/flask-dev-kit)
 
 - 👨‍💻 All of my projects are available at [myfutureselfhosted.portifolio](myfutureselfhosted.portifolio)
-- 🌱 I’m currently learning **Nuxt, PostgreSQL, OpenCV and Django**
 - ⚡ Fun fact **I like tipography**
 
 <h3 align="left">Connect with me:</h3>
