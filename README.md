@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sinueh</h1>
 <h3 align="center">FullStack developer and DevOps versed</h3>
 
-- I’m currently working on [Flask Dev Kit](https://github.com/sinueh-andreata/flask-dev-kit)
+- I’m currently working on [Flask Dev Kit](https://github.com/sinueh-andreata/flask-dev-kit-v3)
 
 - 👨‍💻 All of my projects are available at [myfutureselfhosted.portifolio](myfutureselfhosted.portifolio)
 - ⚡ Fun fact **I like tipography**
